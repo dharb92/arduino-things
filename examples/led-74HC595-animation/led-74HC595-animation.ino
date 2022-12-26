@@ -1,3 +1,5 @@
+#include <new_library.h>
+
 int DATA = 8;
 int LATCH = 9;
 int CLOCK = 10;
